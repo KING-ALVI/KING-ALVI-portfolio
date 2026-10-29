@@ -14,7 +14,7 @@ const Footer = () => {
                             <span className="text-2xl font-bold text-white font-rajdhani leading-none">
                                 Alvi.Dev.Ops
                             </span>
-                        </div>
+                        </div> 
                         <p className="text-sm text-gray-300 leading-tight mt-0 relative top-[-17px] w-[350px]">
                             Hello, I'm Alvi Al Mahmud, a web developer that focuses on creating elegant, responsive, and user-friendly websites. "Excited about executing your ideas!"
                         </p>
